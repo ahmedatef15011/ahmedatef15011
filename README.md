@@ -4,9 +4,8 @@ Dual-degree **Computer Engineering** student (Purdue University + Egypt Universi
 Seeking **Software/Backend** and **Cybersecurity** internship roles.
 
 - Email: ahmedatef15011@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ahmed-atef-el-behiry-590373280/  
-- GitHub: https://github.com/ahmedatef15011  
-
+- LinkedIn: https://www.linkedin.com/in/ahmed-atef-el-behiry-590373280/
+  
 ## Featured Projects
 - **HugEval** (FastAPI + AWS + CI/CD + testing): https://github.com/ahmedatef15011/HugEval  
 - **Verifiable Training with Zero-Knowledge Proofs** (Circom/snarkjs/Poseidon/Merkle): https://github.com/Immortal-ibr/Verifiable-Training-with-Zero-Knowledge-Proofs  
