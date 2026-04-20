@@ -1,7 +1,6 @@
 # Ahmed Elbehiry
 
 Dual-degree **Computer Engineering** student (Purdue University + Egypt University of Informatics).  
-Seeking **Software/Backend** and **Cybersecurity** internship roles.
 
 - Email: ahmedatef15011@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ahmed-atef-el-behiry-590373280/
